@@ -1,6 +1,12 @@
 export default {
   cart: [],
-  buyer: [],
+  buyer: [
+    {
+      name: 'Jader Cano',
+      address: 'Carrera 45 #26-162',
+    },
+  ],
+  orders: [],
   products: [
     {
       id: '1',
